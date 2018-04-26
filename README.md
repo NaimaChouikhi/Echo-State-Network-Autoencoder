@@ -10,3 +10,4 @@ The presented code consists of an Echo State Network Recurrent Autoencoder ESN-R
 *Getting started
 
 Run the script with Matlab: ESN_AE.m
+This code is applied to ECG200 dataset. In order to apply it to other datasets, please put your dataset in the same directory of the code and upload it in the main code.
